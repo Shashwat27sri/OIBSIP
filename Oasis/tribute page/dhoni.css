@@ -1,0 +1,58 @@
+*{
+    background-color: bisque;
+}
+
+.name{
+    text-align: center;
+    justify-content: center;
+    margin-top: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 34px;
+    background-color: rgb(218, 163, 91);
+}
+
+img{
+    width: 800px;
+    height: 450px;
+    display: block;
+    margin: auto;
+    margin-top: 80px;
+    border-radius: 15px;
+    filter: drop-shadow(0 0 0.95rem rgb(95, 80, 45));
+    margin-bottom: 40px;
+}
+
+
+.font_{
+    color:rgb(63, 44, 21) ;
+    font-weight: bolder;
+    font-size: xx-large;
+    text-align: center;
+    
+}
+.bio{
+    font-size: x-large;
+    padding:0px 200px;
+    text-align: justify;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 5px rgb(159, 159, 159); 
+    border-radius: 10px;
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #3e2602; 
+    border-radius: 10px;
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #db59e7; 
+  }
