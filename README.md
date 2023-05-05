@@ -21,7 +21,11 @@ Tasks :-
     
 CALCULATOR:
 
-![image](https://user-images.githubusercontent.com/99991947/235473093-77401d4c-6a83-44dc-9b01-8ebb9a720865.png)
+
+
+https://user-images.githubusercontent.com/99991947/236538519-bf3c15e4-f7ab-4807-a14b-5f429386a34a.mp4
+
+
 
 
 Tribute Page:
